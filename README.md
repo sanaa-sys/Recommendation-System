@@ -12,6 +12,8 @@ This project includes the following files:
  - Content-based recommendation system. Recommend an item based on its features and how similar those are to features of other items in a dataset based on the nearest-neighbor algorithm.
  - Evaluation the models based on precision (model's relevancy ie. number of items that I liked that were also recommended to me divided by the number of items that were recommended to me)
    and recall (model's completeness ie. number of items that I liked that were also recommended to me divided by the number of items that I liked).
+   
+   
  Pearson value (R): Measure of linear correlation between two variables, or in this case, two items ratings.R value that's close to one or negative one than you know you have a strong 
  linear relationship between two variables. As R values get closer to zero, you know that the two variables are not linearly correlated. 
  Logistic Regression: Machine learning method used to predict the value of a numeric categorical variable based on its relationship with predictor variables.
