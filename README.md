@@ -14,7 +14,10 @@ This project includes the following files:
    and recall (model's completeness ie. number of items that I liked that were also recommended to me divided by the number of items that I liked).
    
    
- Pearson value (R): Measure of linear correlation between two variables, or in this case, two items ratings.R value that's close to one or negative one than you know you have a strong 
- linear relationship between two variables. As R values get closer to zero, you know that the two variables are not linearly correlated. 
+ Pearson value (R): Measure of linear correlation between two variables, or in this case, two items ratings.R value that's close to one or negative one than you know you have a strong linear relationship between two variables. As R values get closer to zero, you know that the two variables are not linearly correlated. 
+ 
+ 
  Logistic Regression: Machine learning method used to predict the value of a numeric categorical variable based on its relationship with predictor variables.
+ 
+ 
  Nearest-neighbour algorithm: Also known as a memory-based system, because it memorizes instances and then recommends an item, or a single instance, based on how quantitatively similar it is to a new incoming instance.
